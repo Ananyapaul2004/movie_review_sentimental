@@ -1,0 +1,8 @@
+requirements
+
+streamlit
+   joblib
+   nltk
+   scikit-learn
+   pandas
+   numpy

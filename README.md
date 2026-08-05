@@ -6,7 +6,7 @@ This project involves text preprocessing, feature engineering, and machine learn
 
 ### Files
 
-* `notebook/sentiment_analysis.ipynb` — Jupyter Notebook containing the entire workflow:
+* `code_sentimental.ipynb` — Jupyter Notebook containing the entire workflow:
 
   * Data loading
   * Exploratory Data Analysis (EDA)
@@ -14,7 +14,7 @@ This project involves text preprocessing, feature engineering, and machine learn
   * Feature extraction (BoW, TF-IDF, n-grams)
   * Model training and evaluation
 
-* `IMDB Dataset.csv` — The dataset used for analysis (expected to be in the same directory).
+* `movie_data_part1.xls`, `movie_data_part2.xls`, `movie_data_part3.xls`, `movie_data_part4.xls` — The dataset used for analysis (expected to be in the same directory).
 * `app.py` — Streamlit web app for live sentiment predictions.
 * `sentiment_model.pkl`, `tfidf_vectorizer.pkl` — Saved trained model and vectorizer.
 

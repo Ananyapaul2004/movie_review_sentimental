@@ -6,7 +6,7 @@ This project involves text preprocessing, feature engineering, and machine learn
 
 ### Files
 
-* `code_sentimental.ipynb` — Jupyter Notebook containing the entire workflow:
+* `code_sentimental(4).ipynb` — Jupyter Notebook containing the entire workflow:
 
   * Data loading
   * Exploratory Data Analysis (EDA)
@@ -29,6 +29,7 @@ This project involves text preprocessing, feature engineering, and machine learn
 
   * Multinomial Naive Bayes
   * Logistic Regression
+  * Hyperparameter tuning using GridSearchCV
 * **Model evaluation** using accuracy, F1-score, and confusion matrices.
 * **Model interpretability** via top predictive words/phrases for each class.
 
@@ -36,7 +37,7 @@ This project involves text preprocessing, feature engineering, and machine learn
 
 ### Results
 
-The notebook evaluates multiple model and feature combinations, comparing them on accuracy and F1-score. The best-performing combination — TF-IDF (unigrams + bigrams) with Logistic Regression — achieved ~89.9% accuracy and a 0.90 F1-score.
+The notebook evaluates multiple model and feature combinations, comparing them on accuracy and F1-score. The best-performing combination — TF-IDF (unigrams + bigrams) with Logistic Regression — achieved ~90.012% accuracy and a 0.90 F1-score.
 
 ---
 

@@ -37,7 +37,7 @@ This project involves text preprocessing, feature engineering, and machine learn
 
 ### Results
 
-The notebook evaluates multiple model and feature combinations, comparing them on accuracy and F1-score. The best-performing combination — TF-IDF (unigrams + bigrams) with Logistic Regression — achieved ~90.012% accuracy and a 0.90 F1-score.
+The notebook evaluates multiple model and feature combinations, comparing them on accuracy and F1-score. The best-performing combination — TF-IDF (unigrams + bigrams) with Logistic Regression — achieved ~90.27% accuracy and a 0.90 F1-score.
 
 ---
 
